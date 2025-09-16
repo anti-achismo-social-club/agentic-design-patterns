@@ -1,0 +1,42 @@
+Agentic Design Patterns - Document ID to Section Mapping
+======================================================
+
+Document ID -> Section/Chapter
+
+1. 1cQ61mNpiWn6eSORmWjEjF44vN2Lpba8kyKmNwIC60ig -> Dedication
+2. 1u2y6tY48bw8nriDUuwWEf9s8g66vyIqBKSKZDOS-n0s -> Acknowledgment
+3. 18Q9kfZuCTL37ztrSjLxwf8Elr5UfAiAavmnj0IqSpbU -> Foreword
+4. 1PWhaXD_UNKgJaxYe3JBxRFRt3_B8Wm67CFxtSBQ4LkU -> Thought Leader's Perspective
+5. 1K5jwqB6jh20uHL0TTWxqWOxFk-dzFxRvHzrRRV79hrg -> Introduction
+6. 1Nw6hRa7ItdLr_Tj5hF2q-OH8B_uPKb--RLn8SXZKA94 -> What makes an agent
+7. 1flxKGrbnF2g8yh3F-oVD5Xx7ZumId56HbFpIiPdkqLI -> Chapter 1 (Part 1)
+8. 1XVMp4RcRkoUJTVbrP2foWZX703CUJpWkrhyFU2cfUOA -> Chapter 2 (Part 1)
+9. 1ux_n8n3T4bYndOjs1DKW5ccpC802KISdy2IWnlvYbas -> Chapter 3 (Part 1)
+10. 1HXXJOQIMWowtLw4WMiSR360caDAlZPtl5dPPgvq9IT4 -> Chapter 4 (Part 1)
+11. 1bE4iMljhppqGY1p48gQWtZvk6MfRuJRCiba1yRykGNE -> Chapter 5 (Part 1)
+12. 18vvNESEwHnVUREzIipuaDNCnNAREGqEfy9MQYC9wb4o -> Chapter 6 (Part 1)
+13. 1RZ5-2fykDQKOBx01pwfKkDe0GCs5ydca7xW9Q4wqS_M -> Chapter 7 (Part 1)
+14. 1asVTObtzIye0I9ypAztaeeI_sr_Hx2TORE02uUuqH_c -> Chapter 8 (Part 2)
+15. 1UHTEDCmSM1nwB-iyMoHuYzVcu_B_4KkJ2ITGGUKqo8s -> Chapter 9 (Part 2)
+16. 1e6XimYczKmhX9zpqEyxLFWPQgGuG0brp7Hic2sFl_qw -> Chapter 10 (Part 2)
+17. 10ndlCB39BWjyFRWKpcoKib4vuPD1ojD-x0-ynMaf5uw -> Chapter 11 (Part 2)
+18. 1C07AuMur6-infwE0viCp4QtAy_wWI-uceFm6MaYHQGk -> Chapter 12 (Part 3)
+19. 1ImOZcw6yeb7a-uRBMNP1VdovYfyip4IdsAcLu9yue-0 -> Chapter 13 (Part 3)
+20. 1v96Oobio6xDOqbK8ejsXjmOc4Dp2uoLMo5_gfJgi-NE -> Chapter 14 (Part 3)
+21. 1H6HmUYcy5kugt5gt7Kh2Zzb8C62d5pu36RsgMNDCX24 -> Chapter 15 (Part 4)
+22. 1nAN58l6JjqEJHk43126uh7xgdEblCpcbsNUHXgtBmJQ -> Chapter 16 (Part 4)
+23. 1Yt1W_hLaC6ZNgJXfT4W6NrCL4TzNVdKOX50kgpHiIq4 -> Chapter 17 (Part 4)
+24. 1Gpc5af_okze1kprRLohP6-81e1KwL6HggjeLvxQyIuk -> Chapter 18 (Part 4)
+25. 1G3zOZM2ZOd0gUp5dy66FUjKMOcALh9l-JpvPxgGMm8w -> Chapter 19 (Part 4)
+26. 1qyXxGM2hNqW_qjXuBFxrEUeoYVO79BoW1ogKu1bfdCY -> Chapter 20 (Part 4)
+27. 1zeeMVTqjqRIli6G9MMWThhoQhvKqLOjJF2EHHUXLhdk -> Chapter 21 (Part 4)
+28. 1V7EKEWibOH6IhHD_PtbFZiml492-2191jDQCcTkhtTI -> Appendix A
+29. 11pma_tCoC7uZ2SFKjcR5KyIq0_ooMGSoadI6f9mxG2I -> Appendix B
+30. 151rGsiEYOkXUcNDRus_N8TxxuvjoyTDViBhzt9z0Mfw -> Appendix C
+31. 1bDRJ8mKtLTeWNC-cGD0Cr8pEJQgJHNcjqz5ekloAjaE -> Appendix D
+32. 1W4znto0a8Ikajw5a4tEyRAaB2nJPJw_iFc4w4qNnjho -> Appendix E
+33. 14q3fQ-FZmDgiughno_WLSILMWkURvUgR7mlGiFtvwd4 -> Appendix F
+34. 1tVyhgwrD4fu_D_pHUrwhNxoguRG3tLc1KObXFxrxE_s -> Appendix G
+35. 1_j_OdzeUALluBUO1GkZ48DsHbbDETiM_1G4farVLPnE -> Conclusion
+36. 15MrpoJBrZIi6aEZrBJCeCvVsIoC-EecYG9EWVk3YCKw -> Glossary
+37. 1XxQsHX3FWEP3TisQeWZwFfYw81zDwEHfHdIfjypa_0g -> Additional Content/References
