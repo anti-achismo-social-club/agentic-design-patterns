@@ -71,3 +71,6 @@
 
 ## Note
 All chapters include code examples and have been reviewed for technical accuracy.
+
+## Source Documents
+See [SOURCES.md](./SOURCES.md) for links to all original Google Docs documents.
