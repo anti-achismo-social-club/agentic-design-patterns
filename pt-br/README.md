@@ -4,15 +4,16 @@
 
 > Todos os direitos autorais serão doados para Save the Children
 
-[Pré-venda disponível na Amazon](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/) | [🇺🇸 English Version](../en/README.md)
+**[🇺🇸 English Version](../en/) | [🏠 Página Inicial](../)**
 
 > **Nota de Tradução**: Este conteúdo foi traduzido do original em inglês
-> ["Agentic Design Patterns"](../en/README.md) de Antonio Gulli.
-> Em caso de dúvidas, consulte a [versão original em inglês](../en/README.md).
+> ["Agentic Design Patterns"](../en/) de Antonio Gulli.
+
+---
 
 ## Sumário
 
-### Introdução
+### 📚 Introdução
 - [Dedicatória](./intro/dedicatoria.md)
 - [Agradecimentos](./intro/agradecimentos.md)
 - [Prefácio](./intro/prefacio.md)
@@ -20,61 +21,84 @@
 - [Introdução](./intro/introducao.md)
 - [O que torna um sistema de IA um "agente"?](./intro/o-que-torna-um-agente.md)
 
-### Parte Um: Padrões Fundamentais
-1. [Capítulo 1: Encadeamento de Prompts](./parte1/01-encadeamento-prompts.md) - 12 páginas
-2. [Capítulo 2: Roteamento](./parte1/02-roteamento.md) - 13 páginas
-3. [Capítulo 3: Paralelização](./parte1/03-paralelizacao.md) - 15 páginas
-4. [Capítulo 4: Reflexão](./parte1/04-reflexao.md) - 13 páginas
-5. [Capítulo 5: Uso de Ferramentas](./parte1/05-uso-ferramentas.md) - 20 páginas
-6. [Capítulo 6: Planejamento](./parte1/06-planejamento.md) - 13 páginas
-7. [Capítulo 7: Multi-Agente](./parte1/07-multi-agente.md) - 17 páginas
+### 🔧 Parte 1: Padrões Fundamentais
+*Padrões básicos para sistemas agênticos*
 
-### Parte Dois: Padrões Avançados
-8. [Capítulo 8: Gerenciamento de Memória](./parte2/08-gerenciamento-memoria.md) - 21 páginas
-9. [Capítulo 9: Aprendizado e Adaptação](./parte2/09-aprendizado-adaptacao.md) - 12 páginas
-10. [Capítulo 10: Protocolo de Contexto do Modelo (MCP)](./parte2/10-protocolo-contexto-modelo.md) - 16 páginas
-11. [Capítulo 11: Definição e Monitoramento de Objetivos](./parte2/11-definicao-monitoramento-objetivos.md) - 12 páginas
+1. [Encadeamento de Prompts](./part1/01-encadeamento-prompts.md) - Decomposição de tarefas complexas
+2. [Roteamento](./part1/02-roteamento.md) - Direcionamento de requisições
+3. [Paralelização](./part1/03-paralelizacao.md) - Execução concorrente de tarefas
+4. [Reflexão](./part1/04-reflexao.md) - Auto-avaliação e melhoria
+5. [Uso de Ferramentas](./part1/05-uso-ferramentas.md) - Integração com capacidades externas
+6. [Planejamento](./part1/06-planejamento.md) - Decomposição estratégica de tarefas
+7. [Multi-Agente](./part1/07-multi-agente.md) - Colaboração coordenada entre agentes
 
-### Parte Três: Padrões de Integração
-12. [Capítulo 12: Tratamento de Exceções e Recuperação](./parte3/12-tratamento-excecoes.md) - 8 páginas
-13. [Capítulo 13: Humano no Loop](./parte3/13-humano-no-loop.md) - 9 páginas
-14. [Capítulo 14: Recuperação de Conhecimento (RAG)](./parte3/14-recuperacao-conhecimento-rag.md) - 17 páginas
+### 🚀 Parte 2: Padrões Avançados
+*Comportamentos sofisticados e coordenação*
 
-### Parte Quatro: Padrões de Nível de Sistema
-15. [Capítulo 15: Comunicação Inter-Agente (A2A)](./parte4/15-comunicacao-inter-agente.md) - 15 páginas
-16. [Capítulo 16: Otimização Consciente de Recursos](./parte4/16-otimizacao-recursos.md) - 15 páginas
-17. [Capítulo 17: Técnicas de Raciocínio](./parte4/17-tecnicas-raciocinio.md) - 24 páginas
-18. [Capítulo 18: Padrões de Proteção/Segurança](./parte4/18-padroes-protecao-seguranca.md) - 19 páginas
-19. [Capítulo 19: Avaliação e Monitoramento](./parte4/19-avaliacao-monitoramento.md) - 18 páginas
-20. [Capítulo 20: Priorização](./parte4/20-priorizacao.md) - 10 páginas
-21. [Capítulo 21: Exploração e Descoberta](./parte4/21-exploracao-descoberta.md) - 13 páginas
+8. [Gerenciamento de Memória](./part2/08-gerenciamento-memoria.md) - Persistência e recuperação de estado
+9. [Aprendizado e Adaptação](./part2/09-aprendizado-adaptacao.md) - Melhoria contínua
+10. [Protocolo de Contexto do Modelo (MCP)](./part2/10-protocolo-contexto-modelo.md) - Integração padronizada
+11. [Definição e Monitoramento de Objetivos](./part2/11-definicao-monitoramento-objetivos.md) - Gestão de objetivos
 
-### Apêndice
-- [Apêndice A: Técnicas Avançadas de Prompting](./apendice/A-tecnicas-avancadas-prompting.md) - 28 páginas
-- [Apêndice B: IA Agêntica - Do GUI ao Ambiente do Mundo Real](./apendice/B-gui-mundo-real.md) - 6 páginas
-- [Apêndice C: Visão Geral dos Frameworks Agênticos](./apendice/C-frameworks-agenticos.md) - 8 páginas
-- [Apêndice D: Construindo um Agente com AgentSpace](./apendice/D-agentspace.md) - 6 páginas (apenas online)
-- [Apêndice E: Agentes de IA no CLI](./apendice/E-agentes-cli.md) - 5 páginas (online)
-- [Apêndice F: Por Baixo do Capô - Uma Visão Interna dos Motores de Raciocínio dos Agentes](./apendice/F-motores-raciocinio.md) - 14 páginas
-- [Apêndice G: Agentes de Programação](./apendice/G-agentes-programacao.md) - 7 páginas
+### 🔗 Parte 3: Padrões de Integração
+*Conexão com sistemas externos*
 
-### Conteúdo Adicional
-- [Conclusão](./conclusao.md) - 5 páginas
-- [Glossário](./glossario.md) - 4 páginas
-- [Índice de Termos](./indice.md) - 11 páginas
-- [FAQ: Padrões de Design Agêntico](./faq.md) - Contribuição Online
+12. [Tratamento de Exceções e Recuperação](./part3/12-tratamento-excecoes.md) - Gerenciamento robusto de erros
+13. [Humano no Loop](./part3/13-humano-no-loop.md) - Integração com supervisão humana
+14. [Recuperação de Conhecimento (RAG)](./part3/14-recuperacao-conhecimento-rag.md) - Augmentação de informações
 
-## Total: 424 páginas
+### 🏗️ Parte 4: Padrões de Nível de Sistema
+*Arquiteturas empresariais e de produção*
 
-### Resumo das Partes
-- **Parte Um**: 103 páginas - Padrões fundamentais básicos
-- **Parte Dois**: 61 páginas - Padrões avançados para agentes sofisticados
-- **Parte Três**: 34 páginas - Integração com sistemas externos
-- **Parte Quatro**: 114 páginas - Padrões de arquitetura de nível de sistema
-- **Apêndice**: 74 páginas - Mergulhos profundos e guias práticos
+15. [Comunicação Inter-Agente (A2A)](./part4/15-comunicacao-inter-agente.md) - Rede de agentes
+16. [Otimização Consciente de Recursos](./part4/16-otimizacao-recursos.md) - Gestão de performance
+17. [Técnicas de Raciocínio](./part4/17-tecnicas-raciocinio.md) - Padrões cognitivos avançados
+18. [Padrões de Proteção/Segurança](./part4/18-padroes-protecao-seguranca.md) - Implantação segura de IA
+19. [Avaliação e Monitoramento](./part4/19-avaliacao-monitoramento.md) - Avaliação de sistemas
+20. [Priorização](./part4/20-priorizacao.md) - Estratégias de ordenação de tarefas
+21. [Exploração e Descoberta](./part4/21-exploracao-descoberta.md) - Aprendizado de novas capacidades
 
-## Nota
-Todos os capítulos incluem exemplos de código e foram revisados quanto à precisão técnica.
+### 📖 Apêndices
+*Mergulhos profundos e guias práticos*
 
-## Documentos Fonte
-Veja [SOURCES.md](../SOURCES.md) para links de todos os documentos originais do Google Docs.
+- [A: Técnicas Avançadas de Prompting](./appendix/A-tecnicas-avancadas-prompting.md) - 28 páginas
+- [B: IA Agêntica - Do GUI ao Ambiente do Mundo Real](./appendix/B-gui-mundo-real.md) - 6 páginas
+- [C: Visão Geral dos Frameworks Agênticos](./appendix/C-frameworks-agenticos.md) - 8 páginas
+- [D: Construindo um Agente com AgentSpace](./appendix/D-agentspace.md) - 6 páginas (apenas online)
+- [E: Agentes de IA no CLI](./appendix/E-agentes-cli.md) - 5 páginas (online)
+- [F: Por Baixo do Capô - Motores de Raciocínio dos Agentes](./appendix/F-motores-raciocinio.md) - 14 páginas
+- [G: Agentes de Programação](./appendix/G-agentes-programacao.md) - 7 páginas
+
+### 📋 Recursos Adicionais
+- [Conclusão](./conclusao.md) - Considerações finais e direções futuras
+- [Glossário](./glossario.md) - Terminologia técnica
+- [Índice de Termos](./indice.md) - Referência abrangente de termos
+- [FAQ](./faq.md) - Perguntas frequentes
+
+---
+
+## 📊 Resumo do Livro
+
+- **Total**: 424 páginas de conteúdo técnico abrangente
+- **Padrões Principais**: 21 padrões essenciais para sistemas agênticos
+- **Foco Prático**: Exemplos de código extensivos e implementações do mundo real
+- **Pronto para Produção**: Padrões e melhores práticas de nível empresarial
+
+### Visão Geral das Partes
+- **Parte 1** (103 páginas): Padrões fundamentais que todo sistema agêntico precisa
+- **Parte 2** (61 páginas): Padrões avançados para comportamentos sofisticados de agentes
+- **Parte 3** (34 páginas): Padrões de integração para implantação no mundo real
+- **Parte 4** (114 páginas): Padrões de nível de sistema para ambientes de produção
+- **Apêndices** (74 páginas): Insights técnicos profundos e guias de frameworks
+
+---
+
+## 🔗 Informações Adicionais
+
+- **[Documentos Fonte](../SOURCES.md)** - Links para os Google Docs originais
+- **[Pré-venda Amazon](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)** - Lançamento oficial do livro
+- **[Versão Original em Inglês](../en/)** - Para referência em caso de dúvidas
+
+---
+
+*Todos os capítulos incluem exemplos práticos de código e foram revisados quanto à precisão técnica.*
