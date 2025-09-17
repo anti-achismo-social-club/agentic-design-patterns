@@ -44,9 +44,14 @@ This repository contains the complete **"Agentic Design Patterns"** book by Anto
 
 ## 📜 License | Licença
 
-Content by Antonio Gulli. All royalties donated to Save the Children.
-*Conteúdo de Antonio Gulli. Todos os direitos autorais doados para Save the Children.*
+### ⚠️ Important Notice | Aviso Importante
 
----
+**In accordance with Antonio Gulli's explicit wishes:**
+**De acordo com a vontade explícita de Antonio Gulli:**
 
-*🤖 Markdown conversion and Portuguese translation by Claude Code*
+> This content is made freely available to the community. Antonio Gulli has generously decided that all royalties from this book will be donated to **[Save the Children](https://www.savethechildren.org/)**.
+
+> Este conteúdo é disponibilizado gratuitamente para a comunidade. Antonio Gulli generosamente decidiu que todos os royalties deste livro serão doados para **[Save the Children](https://www.savethechildren.org/)**.
+
+Content created by **Antonio Gulli** (Google). All rights and royalties donated to charitable causes.
+*Conteúdo criado por **Antonio Gulli** (Google). Todos os direitos e royalties doados para causas beneficentes.*
