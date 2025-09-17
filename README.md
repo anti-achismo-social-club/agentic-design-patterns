@@ -2,7 +2,7 @@
 **A Hands-On Guide to Building Intelligent Systems**
 *By Antonio Gulli*
 
-> All royalties will be donated to Save the Children
+> All donates can be send to [Save the Children](https://www.savethechildren.net/)
 
 ---
 
